@@ -1,6 +1,8 @@
 # Hubs Portals Add-On
 A [Mozilla Hubs](https://github.com/mozilla/hubs/) add-on that implements a simple portal system using the Hubs Add-On API. If the room has spawn permissions, any user will be able to spawn portals. The last 2 spawned portals will be linked together. You can travel between two linked portals. Every time a portal is crossed it will print a message with the number of times that it has been crossed.
 
+https://github.com/MozillaReality/hubs-duck-addon/assets/837184/3ebdfb71-e461-4515-aa75-12ee404686ad
+
 ## Install
 1. Add the add-on to your Hubs client add-ons configuration file.
 
