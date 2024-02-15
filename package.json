@@ -23,7 +23,7 @@
   "module": "dist/index.mjs",
   "peerDependencies": {
     "bitecs": "github:mozilla/bitECS#hubs-patches",
-    "three": "^0.141.0"
+    "three": "github:mozillareality/three.js#65b5105908f5f135cad25fed07e25f15f3876777"
   },
   "devDependencies": {
     "@types/hubs": "github:MozillaReality/hubs-ts-types",
