@@ -4,7 +4,11 @@ A [Mozilla Hubs](https://github.com/mozilla/hubs/) add-on that implements a simp
 https://github.com/MozillaReality/hubs-duck-addon/assets/837184/3ebdfb71-e461-4515-aa75-12ee404686ad
 
 ## Install
-1. Add the add-on to your Hubs client add-ons configuration file.
+1. Install the node-module:
+```
+> npm i https://github.com/MozillaReality/hubs-portals-addon.git
+```
+2. Add the add-on to your Hubs client add-ons configuration file.
 
 `addons.json`
 ```
