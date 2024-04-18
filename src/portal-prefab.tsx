@@ -1,7 +1,7 @@
 /** @jsx createElementEntity */
 import { cloneModelFromCache, COLLISION_LAYERS, createElementEntity, EntityDef, Fit, FLOATY_OBJECT_FLAGS, getAbsoluteHref, loadModel, LoadModelResultT, Shape } from "hubs";
 import { PortalParams } from "./portal-inflator";
-import portal from "./assets/portal.glb";
+import portal from "../assets/portal.glb";
 import { Object3D } from "three";
 
 let model: Object3D | null;

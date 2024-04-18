@@ -37,7 +37,7 @@ import {
 } from "three";
 import { Portal } from "./components";
 import { PORTAL_FLAGS } from "./portal-inflator";
-import PORTAL_SFX_URL from "./assets/portal.mp3";
+import PORTAL_SFX_URL from "../assets/portal.mp3";
 import { animationJobs } from "./utils";
 import { checkInput } from "./input";
 
