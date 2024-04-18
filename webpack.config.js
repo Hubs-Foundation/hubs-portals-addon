@@ -37,7 +37,7 @@ export default {
   output: {
     filename: 'index.js',
     path: path.resolve(__dirname, 'dist'),
-    assetModuleFilename: 'images/[hash][ext][query]',
+    assetModuleFilename: 'assets/[name]-[hash][ext][query]',
     module: true, // Enable ES module output
   },
   devtool: 'source-map',
