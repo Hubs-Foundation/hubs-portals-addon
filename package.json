@@ -1,6 +1,6 @@
 {
   "name": "hubs-portals-addon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple portals component for Hubs. You can spawn portals that will connect between each other",
   "scripts": {
     "build": "webpack --mode=production",

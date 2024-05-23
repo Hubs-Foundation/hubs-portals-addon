@@ -1,5 +1,8 @@
 import path from "path";
 import { fileURLToPath } from "url";
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+const { peerDependencies } = require('./package.json');
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
