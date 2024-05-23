@@ -43,6 +43,10 @@ export default {
   externals: {
     bitecs: 'bitecs',
     three: 'three',
-    hubs: 'hubs'
-  }
+    hubs: 'hubs',
+    ...Object.keys(peerDependencies).reduce((externals, dep) => { externals[dep] = dep; return externals; }, {})
+  },
+  optimization: {
+    minimize: false
+ },
 };
