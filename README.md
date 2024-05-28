@@ -1,5 +1,5 @@
 # Hubs Portals Add-On
-A [Mozilla Hubs](https://github.com/mozilla/hubs/) add-on that implements a simple portal system using the Hubs Add-On API. If the room has spawn permissions, any user will be able to spawn portals. The last 2 spawned portals will be linked together. You can travel between two linked portals. Every time a portal is crossed it will print a message with the number of times that it has been crossed.
+A [Hubs](https://github.com/mozilla/hubs/) add-on that implements a simple portal system using the Hubs Add-On API. If the room has spawn permissions, any user will be able to spawn portals. The last 2 spawned portals will be linked together. You can travel between two linked portals. Every time a portal is crossed it will print a message with the number of times that it has been crossed.
 
 As of now add-ons are not yet part of the main Hubs branch, so you'll need to use the Hubs client [add-ons branch](https://github.com/mozilla/hubs/tree/addons) and install this add-on on it.
 
