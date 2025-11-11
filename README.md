@@ -3,8 +3,6 @@ A [Hubs](https://github.com/Hubs-Foundation/hubs/) add-on that implements a simp
 
 As of now add-ons are not yet part of the main Hubs branch, so you'll need to use the Hubs client [add-ons branch](https://github.com/Hubs-Foundation/hubs/tree/addons) and install this add-on on it.
 
-https://github.com/Hubs-Foundation/hubs-duck-addon/assets/837184/3ebdfb71-e461-4515-aa75-12ee404686ad
-
 ## Install
 1. Install the node-module:
 ```
